@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\bin\Release\Student_Manager.exe.config
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\bin\Release\Student_Manager.exe
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\bin\Release\Student_Manager.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\MainWindow.g.cs
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\App.g.cs
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager_MarkupCompile.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager_MarkupCompile.lref
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\MainWindow.baml
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.g.resources
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.exe
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\Student_Manager.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\EditPopup.g.cs
+C:\Users\USER\Documents\Visual Studio 2019\Projects\Student_Manager\Student_Manager\obj\Release\EditPopup.baml
